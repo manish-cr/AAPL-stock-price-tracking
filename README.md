@@ -23,7 +23,7 @@
     API_KEY=your_key_here
     SECRET_KEY=your_secret_here
     ```
-Usage:
+## Usage:
 ```python
 python src/trading_pipeline.py
 ```
