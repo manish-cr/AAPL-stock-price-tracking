@@ -1,0 +1,6 @@
+# .gitignore (root folder)
+config/.env
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
